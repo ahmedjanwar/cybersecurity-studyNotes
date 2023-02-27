@@ -41,7 +41,7 @@ export default function Home({ initialPosts, total }) {
       marginBottom: '1rem',
     }}>
       <Head>
-        <title>Hamood's Blog</title>
+        <title>Hamood&apos;s Blog</title>
       </Head>
       <Section>
        {/* <Cover title="Ahmed Anwar" />*/} 
